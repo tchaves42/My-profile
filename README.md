@@ -4,7 +4,7 @@ Olá! Meu nome é Thiago Chaves, tenho 23 anos e sou um entusiasta do desenvolvi
 
 Tenho tido a oportunidade de trabalhar em projetos desafiadores, onde pude aplicar meu conhecimento em desenvolvimento front-end para criar interfaces de usuário responsivas e funcionais. Durante meu aprendizado, tenho me familiarizado com tecnologias como TypeScript e React, ampliando ainda mais meu arsenal de habilidades.
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
   
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aghiot61&theme=tokyonight&show_icons=true)
