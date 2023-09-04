@@ -6,12 +6,14 @@ Hello! My name is Thiago Chaves, I'm 23 years old, and I'm a student, or better 
 
 Before being selected in the 42 admissions process, I worked as a freelance frontend developer. This provided me with the opportunity to create websites for real clients and gain extensive knowledge in the field of web development. Throughout this journey, I also had the chance to deepen my knowledge in various programming languages, including:
 
-.ReactJS
-.JavaScript
-.TypeScript
-.Java
-.C (the primary language at 42)
-.C++
+<ul>
+ <li>ReactJS</li>
+ <li>JavaScript</li>
+ <li>TypeScript</li>
+ <li>Java</li>
+ <li>C (primary language in 42)</li>
+ <li>C++</li>
+</ul>
 
 I am constantly seeking new challenges and opportunities to enhance my skills as a software developer. If you would like to learn more about my work and experience, please feel free to reach out. I look forward to connecting with professionals in the field and learning from new experiences.
 
@@ -21,12 +23,14 @@ Olá! Meu nome é Thiago Chaves, tenho 23 anos e sou um estudante, ou melhor, um
 
 Antes de ser aprovado no processo seletivo da 42, eu trabalhava como desenvolvedor frontend freelancer, o que me deu a oportunidade de criar websites para clientes reais e adquirir um amplo conhecimento na área de desenvolvimento web. Ao longo dessa jornada, também tive a oportunidade de aprofundar meu conhecimento em várias linguagens de programação, incluindo:
 
-.ReactJS
-.JavaScript
-.TypeScript
-.Java
-.C (linguagem principal da 42)
-.C++
+<ul>
+<li>ReactJS</li>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>Java</li>
+<li>C (linguagem principal da 42)</li>
+<li>C++</li>
+</ul>
 
 Estou constantemente buscando novos desafios e oportunidades para aprimorar minhas habilidades como desenvolvedor de software. Se você quiser saber mais sobre meu trabalho e experiência, fique à vontade para entrar em contato. Estou ansioso para conectar com profissionais da área e aprender com novas experiências.
 
