@@ -37,7 +37,7 @@ Estou constantemente buscando novos desafios e oportunidades para aprimorar minh
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300" />
  
 
-<div align="center">
+<div align="left">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=aghiot61&theme=neon-dark&hide_border=true&background=DD272700" />
 </div>
 
