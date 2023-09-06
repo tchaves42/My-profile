@@ -34,7 +34,7 @@ Antes de ser aprovado no processo seletivo da 42, eu trabalhava como desenvolved
 
 Estou constantemente buscando novos desafios e oportunidades para aprimorar minhas habilidades como desenvolvedor de software. Se você quiser saber mais sobre meu trabalho e experiência, fique à vontade para entrar em contato. Estou ansioso para conectar com profissionais da área e aprender com novas experiências.
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="200" height="200" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="300" height="300" />
  
 
 <div align="left">
