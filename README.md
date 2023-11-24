@@ -1,83 +1,76 @@
-# My profile 🚀🧑🏻‍🚀
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-EN-US
+## Hello, Devs !! 👋
+### Welcome to my profile ! <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
+- 📍 Rio de janeiro - RJ, Brasil
+- ❤️ I love Basketball and technology
+- 👨🏻‍💻 Software development student at 42 rio
+
+<br>
 
 Hello! My name is Thiago Chaves, I'm 23 years old, and I'm a student, or better yet, a "cadet" in software engineering at 42 RIO College. The teaching method at 42 RIO is based on peer-to-peer learning, allowing us to absorb knowledge hands-on through projects, while also teaching and learning from fellow peers. This approach helps us develop soft skills such as teamwork, communication, leadership, among others.
 
-Before being selected in the 42 admissions process, I worked as a freelance frontend developer. This provided me with the opportunity to create websites for real clients and gain extensive knowledge in the field of web development. Throughout this journey, I also had the chance to deepen my knowledge in various programming languages, including:
-
-<ul>
- <li>ReactJS</li>
- <li>JavaScript</li>
- <li>TypeScript</li>
- <li>Java</li>
- <li>C (primary language in 42)</li>
- <li>C++</li>
-</ul>
+Before being selected in the 42 admissions process, I worked as a freelance frontend developer. This provided me with the opportunity to create websites for real clients and gain extensive knowledge in the field of web development.
 
 I am constantly seeking new challenges and opportunities to enhance my skills as a software developer. If you would like to learn more about my work and experience, please feel free to reach out. I look forward to connecting with professionals in the field and learning from new experiences.
 
-PT-BR
+##
 
-Olá! Meu nome é Thiago Chaves, tenho 23 anos e sou um estudante, ou melhor, um "cadete" de engenharia de software na Faculdade 42 RIO. O método de ensino da 42 RIO é baseado no peer-to-peer, o que nos permite absorver conhecimento na prática, por meio de projetos, enquanto ensinamos e aprendemos com outros colegas. Isso também nos ajuda a desenvolver habilidades interpessoais, como trabalho em equipe, comunicação, liderança, entre outras.
+#### Languages i use:
+[<img height="48px" width="48px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone Sass" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com)
+[<img height="48px" width="48px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/pt/)
+[<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>](https://pt-br.react.dev)
+[<img height="48px" width="48px" alt="Icone Npm.js" src="https://skillicons.dev/icons?i=java"/>](https://www.Java.com)
+[<img height="48px" width="48px" alt="Icone Node.js" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org)
+[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=c"/>](https://www.learn-c.org/)
+[<img height="48px" width="48px" alt="Icone PostgreSQL" src="https://skillicons.dev/icons?i=cpp"/>](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
 
-Antes de ser aprovado no processo seletivo da 42, eu trabalhava como desenvolvedor frontend freelancer, o que me deu a oportunidade de criar websites para clientes reais e adquirir um amplo conhecimento na área de desenvolvimento web. Ao longo dessa jornada, também tive a oportunidade de aprofundar meu conhecimento em várias linguagens de programação, incluindo:
+##
 
-<ul>
-<li>ReactJS</li>
-<li>JavaScript</li>
-<li>TypeScript</li>
-<li>Java</li>
-<li>C (linguagem principal da 42)</li>
-<li>C++</li>
-</ul>
+#### My tools:
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="48px" width="48px" alt="Icone Insomnia" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/)
+[<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
+[<img height="48px" width="48px" alt="Icone Vercer" src="https://skillicons.dev/icons?i=firebase"/>](https://firebase.com)
+[<img height="48px" width="48px" alt="Icone Azuve DevOps" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/pt-br/products/devops/)
+[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
+[<img height="48px" width="48px" alt="Icone Adobe Ilustrator" src="https://skillicons.dev/icons?i=ai"/>](https://www.adobe.com/br/products/illustrator.html)
+[<img height="48px" width="48px" alt="Icone Adode Photoshop" src="https://skillicons.dev/icons?i=ps"/>](https://www.adobe.com/br/products/photoshop.html)
 
-Estou constantemente buscando novos desafios e oportunidades para aprimorar minhas habilidades como desenvolvedor de software. Se você quiser saber mais sobre meu trabalho e experiência, fique à vontade para entrar em contato. Estou ansioso para conectar com profissionais da área e aprender com novas experiências.
+##
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="300" height="250" />
- 
+#### Talk to me:
+[<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thiago-chaves-2469b6218/)
+ <a href = "mailto:contatothiagoschaves61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<div align="left">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=aghiot61&theme=neon-dark&hide_border=true&background=DD272700" />
-</div>
+##
 
- **Algumas das minhas redes sociais:**
-  
-  <div>
-  <a href="https://www.instagram.com/thiagosc61/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatothiagoschaves61@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/thiago-chaves-2469b6218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+#### Education:
+Na visão geral abaixo você encontrará minha formação acadêmica:
 
-## 🛠 **My Tools:**
+[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://i.postimg.cc/p9N2Zdqw/42.png"/>](https://42.rio/)
+**Software engineer** \
+[**42 Rio**](https://42.rio/) \
+Languages - Front-end: `HTML`, `CSS`,`JavaScript`, `React.js`, `TypeScript`
+<br/>Languages - Back-end: `C`, `C++`, `Python`, `Node.js`, `Shell`, `VirtualBox`
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white))
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-<br>
+[<img align="left" height="94px" width="120px" alt="Warpnet" src="https://i.postimg.cc/CzV4GkqG/ada.jpg"/>](https://ada.tech/)
+**Full-stack Development** \
+[**Ada Tech**](https://ada.tech/) \
+Languages - Front-end: `HTML`, `CSS`,`JavaScript`, `React.js`
+<br/>Languages - Back-end: `Java`, `Node.js`
 
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+##
 
-<br>
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![neovim](https://img.shields.io/badge/neovim-%23430098.svg?style=for-the-badge&logo=neovim&color=0B151B)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
-<br>
-  
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
+#### Statistics:
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchaves42&layout=compact&langs_count=7&theme=tokyonight"/>](https://github.com/)
+[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=tchaves42&show_icons=true&include_all_commits=true&theme=tokyonight"/>](https://github.com/)
+[<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=tchaves42&amp;theme=tokyonight"/>](https://github.com/)
