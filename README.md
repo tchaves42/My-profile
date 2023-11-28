@@ -72,5 +72,4 @@ Languages - Front-end: `HTML`, `CSS`,`JavaScript`, `React.js`
 
 #### Statistics:
 [<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchaves42&layout=compact&langs_count=7&theme=tokyonight"/>](https://github.com/)
-[<img height="180px" alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api/?username=tchaves42&show_icons=true&include_all_commits=true&theme=tokyonight"/>](https://github.com/)
 [<img height="153px" alt="GitHub Statistics" src="http://github-readme-streak-stats.herokuapp.com/?user=tchaves42&amp;theme=tokyonight"/>](https://github.com/)
