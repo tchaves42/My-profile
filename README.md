@@ -9,11 +9,15 @@
 
 <br>
 
-Hello! My name is Thiago Chaves, I'm 23 years old, and I'm a student, or better yet, a "cadet" in software engineering at 42 RIO College. The teaching method at 42 RIO is based on peer-to-peer learning, allowing us to absorb knowledge hands-on through projects, while also teaching and learning from fellow peers. This approach helps us develop soft skills such as teamwork, communication, leadership, among others.
+Hello! I am a Full Stack Development intern at BRISA, focusing on solving problems both in the back-end with Java and the front-end with Angular. During my experience at BRISA, I participate in challenging projects where I have the opportunity to develop my programming skills. I work on creating functional user interfaces and implementing systems that involve complex data structures.
 
-Before being selected in the 42 admissions process, I worked as a freelance frontend developer. This provided me with the opportunity to create websites for real clients and gain extensive knowledge in the field of web development.
+My skills include:
 
-I am constantly seeking new challenges and opportunities to enhance my skills as a software developer. If you would like to learn more about my work and experience, please feel free to reach out. I look forward to connecting with professionals in the field and learning from new experiences.
+.Web application development with Java and Angular
+.Creating responsive user interfaces
+.Basic data structures and algorithms
+.API and RESTful services integration
+.Teamwork and collaboration in agile projects
 
 ##
 
