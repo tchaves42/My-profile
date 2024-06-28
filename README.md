@@ -5,7 +5,8 @@
 
 - 📍 Rio de janeiro - RJ, Brasil
 - ❤️ I love Basketball and technology
-- 👨🏻‍💻 Software development student at 42 rio
+- 👨🏻‍💻 Software development at 42 BRISA
+- 👨‍🎓 Bachelor's Degree in Information Systems | UNISUAM 🦉
 
 <br>
 
