@@ -13,11 +13,11 @@ Hello! I am a Full Stack Development intern at BRISA, focusing on solving proble
 
 My skills include:
 
-.Web application development with Java and Angular
-.Creating responsive user interfaces
-.Basic data structures and algorithms
-.API and RESTful services integration
-.Teamwork and collaboration in agile projects
+- Web application development with Java and Angular
+- Creating responsive user interfaces
+- Basic data structures and algorithms
+- API and RESTful services integration
+- Teamwork and collaboration in agile projects
 
 ##
 
